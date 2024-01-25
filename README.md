@@ -12,7 +12,7 @@ For successful compilation on LINUX-Ubuntu 22.04, you need to be sure to have in
             $ sudo apt-get install libsfml-dev <br />
           
 Once you have all, to compile run the following terminal command inside your game dir: <br />
-           $ g++ -o DragonLand AssetsControllerClass.cpp CollisionClass.cpp DragonClass.cpp FlashScreenClass.cpp Game.cpp GameOverStateClass.cpp GameStateClass.cpp HUDClass.cpp InputControllerClass.cpp LandClass.cpp main.cpp MainMenuStateClass.cpp            SawClass.cpp SimpleClock.cpp SplashStateClass.cpp StateMachineClass.cpp -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio <br /><br />
+           $ g++ -o DragonLand AssetsControllerClass.cpp CollisionClass.cpp DragonClass.cpp FlashScreenClass.cpp Game.cpp GameOverStateClass.cpp GameStateClass.cpp HUDClass.cpp InputControllerClass.cpp LandClass.cpp main.cpp MainMenuStateClass.cpp  SawClass.cpp SimpleClock.cpp SplashStateClass.cpp StateMachineClass.cpp -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio <br /><br />
 Then to run the game:<br />
            $ ./DragonLand<br />
 
