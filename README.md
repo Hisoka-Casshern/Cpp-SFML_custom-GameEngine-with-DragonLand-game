@@ -1,6 +1,7 @@
 # Cpp-SFML_custom-GameEngine-with-DragonLand-game
-##########################################################################################################################################################################################################
-As a C++  project; I created a simple game engine that uses the SFML library, the engine handles assets, inputs, state machine, simple 2d graphics draws, and audio. The engine comes with a game that was built on top of it and has specific logic handled by the engine. The game is a take on the famous Flappy Bird but is rebuilt from scratch using C++ and my engine. All the Assets that are not audio are created by myself and are free to use, also the code is free to use, audio assets are not free to use as is and are under a CC BY-NC-ND license.
+#
+ As a C++  project; I created a simple game engine that uses the SFML library, the engine handles assets, inputs, state machine, simple 2d graphics draws, and audio. The engine comes with a game that was built on top of it and has specific logic handled by the engine. The game is a take on the famous Flappy Bird but is rebuilt from scratch using C++ and my engine. All the Assets that are not audio are created by myself and are free to use, also the code is free to use, audio assets are NOT
+#free to use as is and are under a CC BY-NC-ND license!
 
 For successful compilation on LINUX-Ubuntu 22.04, you need to be sure to have installed GCC/G++ and SFML, if you do not have them here are steps to run in the terminal:
           $ sudo apt update
