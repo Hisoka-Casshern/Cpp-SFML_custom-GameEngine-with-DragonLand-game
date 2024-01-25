@@ -5,14 +5,14 @@
 
 For successful compilation on LINUX-Ubuntu 22.04, you need to be sure to have installed GCC/G++ and SFML, if you do not have them here are steps to run in the terminal: <br />
             $ sudo apt update <br />
-          $ sudo apt install gcc <br />
-          $ sudo apt install build-essential <br />
-          $ sudo apt-get install libsfml-dev <br />
+            $ sudo apt install gcc <br />
+            $ sudo apt install build-essential <br />
+            $ sudo apt-get install libsfml-dev <br />
           
 Once you have all, to compile run the following terminal command inside your game dir: <br />
-         $ g++ -o DragonLand AssetsControllerClass.cpp CollisionClass.cpp DragonClass.cpp FlashScreenClass.cpp Game.cpp GameOverStateClass.cpp GameStateClass.cpp HUDClass.cpp InputControllerClass.cpp LandClass.cpp main.cpp MainMenuStateClass.cpp SawClass.cpp SimpleClock.cpp SplashStateClass.cpp StateMachineClass.cpp -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio <br /><br />
+           $ g++ -o DragonLand AssetsControllerClass.cpp CollisionClass.cpp DragonClass.cpp FlashScreenClass.cpp Game.cpp GameOverStateClass.cpp GameStateClass.cpp HUDClass.cpp InputControllerClass.cpp LandClass.cpp main.cpp MainMenuStateClass.cpp SawClass.cpp SimpleClock.cpp SplashStateClass.cpp StateMachineClass.cpp -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio <br /><br />
 Then to run the game:<br />
-$ ./DragonLand<br />
+  $ ./DragonLand<br />
 
 For Windows 10 compilation I used CODE:BLocks and MinGW and SFML version 2.3.1-GCC 4.9.2 MinGW (SEH)-64-bit, you need to properly setup CODE:Block project such that the debugger has the right paths to the SMFL lib and include directories. You should have DragonLand.exe if done right.<br />
 
@@ -21,8 +21,8 @@ Game Screenshots: <br />
   <img src="GameScreenshots/0.png" width="300" height="400">
 </p>
 <p align="center">
-  <img src="GameScreenshots/1.png" width="300" height=400 style="margin-right: 50px;">  <img src="GameScreenshots/2.png" width="300" height=400>
+  <img src="GameScreenshots/1.png" width="300" height=400 style="margin-right: 50px;">    <img src="GameScreenshots/2.png" width="300" height=400>
 </p>
 <p align="center">
-  <img src="GameScreenshots/3.png" width="300" height=400 style="margin-right: 50px;">  <img src="GameScreenshots/4.png" width="300" height=400>
+  <img src="GameScreenshots/3.png" width="300" height=400 style="margin-right: 50px;">    <img src="GameScreenshots/4.png" width="300" height=400>
 </p><br />
