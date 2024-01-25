@@ -4,7 +4,7 @@
 #free to use as is and are under a CC BY-NC-ND license! <br />
 
 For successful compilation on LINUX-Ubuntu 22.04, you need to be sure to have installed GCC/G++ and SFML, if you do not have them here are steps to run in the terminal: <br />
-          $ sudo apt update <br />
+            $ sudo apt update <br />
           $ sudo apt install gcc <br />
           $ sudo apt install build-essential <br />
           $ sudo apt-get install libsfml-dev <br />
