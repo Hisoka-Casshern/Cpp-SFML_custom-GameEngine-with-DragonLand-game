@@ -1,0 +1,2 @@
+// IconResource.rc
+IDI_ICON1 ICON DISCARDABLE "Assets/Images/Icon.ico"
