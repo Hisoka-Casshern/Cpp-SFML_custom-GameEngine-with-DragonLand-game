@@ -18,8 +18,8 @@ For Windows 10 compilation I used CODE:BLocks and MinGW and SFML version 2.3.1-G
 
 Game Screenshots: <br />
 <img src="GameScreenshots/0.png" width="250" height=333> <br />
-<img src="GameScreenshots/1.png" width="250" height=333> <br />  <img src="GameScreenshots/2.png" width="250" height=333> <br />
-<img src="GameScreenshots/3.png" width="250" height=333> <br />  <img src="GameScreenshots/4.png" width="250" height=333> <br />
+<img src="GameScreenshots/1.png" width="250" height=333>  <img src="GameScreenshots/2.png" width="250" height=333> <br />
+<img src="GameScreenshots/3.png" width="250" height=333>  <img src="GameScreenshots/4.png" width="250" height=333> <br />
 
 
  
