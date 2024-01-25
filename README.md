@@ -18,13 +18,13 @@ For Windows 10 compilation I used CODE:BLocks and MinGW and SFML version 2.3.1-G
 
 Game Screenshots: <br />
 <div style="text-align: center;">
-<img src="GameScreenshots/0.png" width="300" height=400> <br />
-</div>
+ <img src="GameScreenshots/0.png" width="300" height=400> 
+</div><br />
 <div style="text-align: center;">
-<img src="GameScreenshots/1.png" width="300" height=400>  <img src="GameScreenshots/2.png" width="300" height=400> <br />
+ <img src="GameScreenshots/1.png" width="300" height=400>  <img src="GameScreenshots/2.png" width="300" height=400> <br />
 </div>
 <div style="text-align: center;"> 
-<img src="GameScreenshots/3.png" width="300" height=400>  <img src="GameScreenshots/4.png" width="300" height=400> <br />
+ <img src="GameScreenshots/3.png" width="300" height=400>  <img src="GameScreenshots/4.png" width="300" height=400> <br />
 </div>
 
  
