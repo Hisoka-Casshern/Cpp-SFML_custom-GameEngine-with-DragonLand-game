@@ -21,8 +21,8 @@ Game Screenshots: <br />
   <img src="GameScreenshots/0.png" width="300" height="400">
 </p>
 <p align="center">
-  <img src="GameScreenshots/1.png" width="300" height=400 style="margin-right: 50px;">  <img src="GameScreenshots/2.png" width="300" height=400> <br />
-</p><br />
+  <img src="GameScreenshots/1.png" width="300" height=400 style="margin-right: 50px;">  <img src="GameScreenshots/2.png" width="300" height=400>
+</p>
 <p align="center">
-  <img src="GameScreenshots/3.png" width="300" height=400 style="margin-right: 50px;">  <img src="GameScreenshots/4.png" width="300" height=400> <br />
+  <img src="GameScreenshots/3.png" width="300" height=400 style="margin-right: 50px;">  <img src="GameScreenshots/4.png" width="300" height=400>
 </p><br />
