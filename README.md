@@ -17,8 +17,8 @@ $ ./DragonLand<br />
 For Windows 10 compilation I used CODE:BLocks and MinGW and SFML version 2.3.1-GCC 4.9.2 MinGW (SEH)-64-bit, you need to properly setup CODE:Block project such that the debugger has the right paths to the SMFL lib and include directories. You should have DragonLand.exe if done right.<br />
 
 Game Screenshots: <br />
-[Game Screenshot](GameScreenshots/0.png)<br />
-[Game Screenshot](GameScreenshots/1.png) [Game Screenshot](GameScreenshots/2.png)<br />
-[Game Screenshot](GameScreenshots/3.png) [Game Screenshot](GameScreenshots/4.png)<br />
+![Game Screenshot](GameScreenshots/0.png)<br />
+![Game Screenshot](GameScreenshots/1.png) ![Game Screenshot](GameScreenshots/2.png)<br />
+![Game Screenshot](GameScreenshots/3.png) ![Game Screenshot](GameScreenshots/4.png)<br />
 
  
