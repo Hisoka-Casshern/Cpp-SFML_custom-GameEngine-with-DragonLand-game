@@ -18,13 +18,13 @@ For Windows 10 compilation I used CODE:BLocks and MinGW and SFML version 2.3.1-G
 
 Game Screenshots: <br />
 <p align="center">
-<table>
-  <tr>
-    <td style="text-align: center;">
-         <img src="GameScreenshots/0.png" width="300" height="400">
-    </td>
-  </tr>
-</table>
+ <table>
+   <tr>
+     <td style="text-align: center;">
+          <img src="GameScreenshots/0.png" width="300" height="400">
+     </td>
+   </tr>
+ </table>
 </p>
 
 <div style="text-align: center;">
